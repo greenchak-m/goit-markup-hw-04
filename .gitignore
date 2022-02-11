@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Папки и ФАйлы которые нужно игнорирывать
+.vscode
+.idea
+.DS_store
+node_modules
+.env
+build/
+.psd
